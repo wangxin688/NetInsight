@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:blog}/dcim.db",
+            "name": "dcim"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:blog}/dcim.db",
+            "name": "dcim"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
